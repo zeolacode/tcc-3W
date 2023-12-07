@@ -37,3 +37,21 @@ O repositório está organizado em três principais diretórios:
 Se você deseja contribuir para este projeto, sinta-se à vontade para abrir issues, propor melhorias ou enviar pull requests. Sua colaboração é valiosa!
 
 Agradeço por explorar este repositório e espero que seja útil para sua compreensão do meu trabalho de pesquisa em Engenharia Eletrônica.
+
+Certamente! Aqui está uma sugestão de como você pode citar o artigo e referenciar o repositório em seu README:
+
+## Referências
+
+O código neste repositório utiliza o conjunto de dados 3W disponibilizado pelo autor Ricardo Emanuel Vaz Vargas. Para obter mais detalhes sobre o conjunto de dados e agradecer ao autor pela disponibilização, consulte o repositório oficial:
+
+- **Repositório:** [3W Dataset Repository](https://github.com/ricardovvargas/3w_dataset)
+- **Título:** A realistic and public dataset with rare undesirable real events in oil wells
+- **Autores:** Ricardo Emanuel Vaz Vargas, Celso José Munaro, Patrick Marques Ciarelli, André Gonçalves Medeiros, Bruno Guberfain do Amaral, Daniel Centurion Barrionuevo, Jean Carlos Dias de Araújo, Jorge Lins Ribeiro, Lucas Pierezan Magalhães
+- **Ano:** 2019
+- **Journal:** Journal of Petroleum Science and Engineering
+- **Volume:** 181
+- **Páginas:** 106223
+- **DOI:** [10.1016/j.petrol.2019.106223](https://doi.org/10.1016/j.petrol.2019.106223)
+- **URL:** [Link para o artigo](http://www.sciencedirect.com/science/article/pii/S0920410519306357)
+- **Palavras-chave:** Fault detection and diagnosis, Oil well monitoring, Abnormal event management, Multivariate time series classification
+- **Resumo:** [Resumo do artigo]
